@@ -1,4 +1,6 @@
-# leaflet-challenge
+# Earthquake Map Webpage
+
+[Visit Site here](https://jlangree.github.io/leaflet-challenge/)
 
 This webpage's purpose is to display locations and magnitudes of all earthquakes measured in the last week. Data is extracted from the USGS's public API ([USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)).
 
